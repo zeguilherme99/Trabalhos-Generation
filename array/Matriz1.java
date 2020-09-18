@@ -24,7 +24,7 @@ public class Matriz1 {
 		{
 			for(int j=0;j<3;j++)
 			{
-				System.out.printf("\nOs valores da matriz sao: %f", matriz1[i][j]);
+				System.out.printf("\nOs valores da matriz sao: %f.2", matriz1[i][j]);
 				
 			}
 		}
